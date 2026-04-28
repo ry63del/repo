@@ -1,85 +1,631 @@
 {
   "title": "Sword Empire",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "description": "You are a warrior, tactician and general. Lead your troops to glory, and your name will be known in infamy; fail, and watch as the sands of time destroy everything you built. Your time is close at hand. May you reign long.",
+  "artist": "Fēng Mǎ Juàn",
+  "author": "Fēng Mǎ Juàn",
+  "cover": "https://cdn.imgchest.com/files/ac97d33fffee.jpg",
   "chapters": {
     "0": {
       "title": "",
-      "last_updated": "1777413262",
+      "last_updated": "1777416087",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyqedqgky2"
+        "": "/proxy/api/imgchest/chapter/bp45ed89v45"
       }
     },
     "0.5": {
       "title": "",
-      "last_updated": "1777413281",
+      "last_updated": "1777416101",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ej7mr2nzj4d"
+        "": "/proxy/api/imgchest/chapter/a846zgx22yx"
       }
     },
-    "1.1": {
+    "1.01": {
       "title": "",
-      "last_updated": "1777413290",
+      "last_updated": "1777416110",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/pg733jpk37r"
+        "": "/proxy/api/imgchest/chapter/9p4nml2b5yn"
       }
     },
-    "1.2": {
+    "1.02": {
       "title": "",
-      "last_updated": "1777413299",
+      "last_updated": "1777416121",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/lqyeopvjk4d"
+        "": "/proxy/api/imgchest/chapter/dl7pwzq2jyo"
       }
     },
-    "1.3": {
+    "1.03": {
       "title": "",
-      "last_updated": "1777413308",
+      "last_updated": "1777416131",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny88lzpdyb"
+        "": "/proxy/api/imgchest/chapter/5xy2mle937l"
       }
     },
-    "1.4": {
+    "1.04": {
       "title": "",
-      "last_updated": "1777413317",
+      "last_updated": "1777416140",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/bp45ed8kg45"
+        "": "/proxy/api/imgchest/chapter/vj4jjw3a948"
       }
     },
-    "10.1": {
+    "2.01": {
       "title": "",
-      "last_updated": "1777413325",
+      "last_updated": "1777416310",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/o24aokgxwyl"
+        "Lusario Scans": "/proxy/api/imgchest/chapter/md7o3jlml7p"
       }
     },
-    "10.10": {
+    "2.02": {
       "title": "",
-      "last_updated": "1777413334",
+      "last_updated": "1777416322",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxlgvkkyq"
+        "Lusario Scans": "/proxy/api/imgchest/chapter/wl7ldmkq3yx"
       }
     },
-    "10.11": {
+    "2.03": {
       "title": "",
-      "last_updated": "1777413343",
+      "last_updated": "1777416330",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pwzqjkyo"
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ljyqedqwxy2"
       }
     },
-    "10.12": {
+    "2.04": {
       "title": "",
-      "last_updated": "1777413351",
+      "last_updated": "1777416343",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kqwrzm78"
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ej7mr2nda4d"
       }
     },
-    "10.02": {
+    "3.01": {
       "title": "",
-      "last_updated": "1777413659",
+      "last_updated": "1777416352",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/xny88lzlpyb"
+        "Lusario Scans": "/proxy/api/imgchest/chapter/xny88lzawyb"
+      }
+    },
+    "3.02": {
+      "title": "",
+      "last_updated": "1777416360",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/a846zgx82yx"
+      }
+    },
+    "3.03": {
+      "title": "",
+      "last_updated": "1777416371",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/92495ja68yn"
+      }
+    },
+    "3.04": {
+      "title": "",
+      "last_updated": "1777416378",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ne7boxpegy5"
+      }
+    },
+    "3.05": {
+      "title": "",
+      "last_updated": "1777416385",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/dl7pwzqljyo"
+      }
+    },
+    "3.06": {
+      "title": "",
+      "last_updated": "1777416391",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/vj4jjw3x948"
+      }
+    },
+    "3.07": {
+      "title": "",
+      "last_updated": "1777416398",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/5xy2mler87l"
+      }
+    },
+    "3.08": {
+      "title": "",
+      "last_updated": "1777416405",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/wl7ldmknoyx"
+      }
+    },
+    "3.09": {
+      "title": "",
+      "last_updated": "1777416412",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ljyqedqjky2"
+      }
+    },
+    "3.10": {
+      "title": "",
+      "last_updated": "1777416422",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/pg733jpm37r"
+      }
+    },
+    "4.01": {
+      "title": "",
+      "last_updated": "1777416433",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qb4zqk3gv4j"
+      }
+    },
+    "4.02": {
+      "title": "",
+      "last_updated": "1777416441",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/bp45ed8wg45"
+      }
+    },
+    "4.03": {
+      "title": "",
+      "last_updated": "1777416449",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/agyvae6mzy8"
+      }
+    },
+    "4.04": {
+      "title": "",
+      "last_updated": "1777416457",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9p4nml25lyn"
+      }
+    },
+    "5.01": {
+      "title": "",
+      "last_updated": "1777416466",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/5xy2mlew87l"
+      }
+    },
+    "5.02": {
+      "title": "",
+      "last_updated": "1777416475",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ljyqedqnky2"
+      }
+    },
+    "5.03": {
+      "title": "",
+      "last_updated": "1777416483",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/6eyrzd2p67p"
+      }
+    },
+    "5.04": {
+      "title": "",
+      "last_updated": "1777416491",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/n87w2rvwb7x"
+      }
+    },
+    "5.05": {
+      "title": "",
+      "last_updated": "1777416499",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qb4zqk3av4j"
+      }
+    },
+    "5.06": {
+      "title": "",
+      "last_updated": "1777416507",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qe4gkrlob7j"
+      }
+    },
+    "5.07": {
+      "title": "",
+      "last_updated": "1777416515",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/bp45ed8ag45"
+      }
+    },
+    "5.08": {
+      "title": "",
+      "last_updated": "1777416527",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/a846zgxvvyx"
+      }
+    },
+    "5.09": {
+      "title": "",
+      "last_updated": "1777416538",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9p4nmllglyn"
+      }
+    },
+    "5.10": {
+      "title": "",
+      "last_updated": "1777416547",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ne7boxxgvy5"
+      }
+    },
+    "5.11": {
+      "title": "",
+      "last_updated": "1777416556",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/na7kqwwxm78"
+      }
+    },
+    "6.01": {
+      "title": "",
+      "last_updated": "1777416566",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/vj4jjwwoe48"
+      }
+    },
+    "6.02": {
+      "title": "",
+      "last_updated": "1777416578",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ljyqeddgky2"
+      }
+    },
+    "6.03": {
+      "title": "",
+      "last_updated": "1777416589",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/n87w2rrzb7x"
+      }
+    },
+    "6.04": {
+      "title": "",
+      "last_updated": "1777416599",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qe4gkrrvb7j"
+      }
+    },
+    "6.05": {
+      "title": "",
+      "last_updated": "1777416609",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/xny88llpdyb"
+      }
+    },
+    "6.06": {
+      "title": "",
+      "last_updated": "1777416617",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/o24aokkxwyl"
+      }
+    },
+    "6.07": {
+      "title": "",
+      "last_updated": "1777416625",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/agyvaeedzy8"
+      }
+    },
+    "6.08": {
+      "title": "",
+      "last_updated": "1777416635",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/dl7pwzzjkyo"
+      }
+    },
+    "6.09": {
+      "title": "",
+      "last_updated": "1777416645",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/na7kqwwzm78"
+      }
+    },
+    "6.10": {
+      "title": "",
+      "last_updated": "1777416657",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/5xy2mllp87l"
+      }
+    },
+    "6.11": {
+      "title": "",
+      "last_updated": "1777416667",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ljyqedd9ky2"
+      }
+    },
+    "7.01": {
+      "title": "",
+      "last_updated": "1777416677",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/6eyrzddg67p"
+      }
+    },
+    "7.02": {
+      "title": "",
+      "last_updated": "1777416687",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/n87w2rr6b7x"
+      }
+    },
+    "7.03": {
+      "title": "",
+      "last_updated": "1777416695",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qb4zqkk9v4j"
+      }
+    },
+    "7.04": {
+      "title": "",
+      "last_updated": "1777416703",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/bp45eddxg45"
+      }
+    },
+    "7.05": {
+      "title": "",
+      "last_updated": "1777416711",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9p4nmll2lyn"
+      }
+    },
+    "7.06": {
+      "title": "",
+      "last_updated": "1777416719",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/5xy2mlle87l"
+      }
+    },
+    "8.01": {
+      "title": "",
+      "last_updated": "1777416729",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/vj4jjww3e48"
+      }
+    },
+    "8.02": {
+      "title": "",
+      "last_updated": "1777416737",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/5xy2mllen7l"
+      }
+    },
+    "8.03": {
+      "title": "",
+      "last_updated": "1777416745",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9rydoppzd7k"
+      }
+    },
+    "8.04": {
+      "title": "",
+      "last_updated": "1777416754",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ej7mr22nq4d"
+      }
+    },
+    "8.05": {
+      "title": "",
+      "last_updated": "1777416762",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/n87w2rrv37x"
+      }
+    },
+    "8.06": {
+      "title": "",
+      "last_updated": "1777416772",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qb4zqkk3g4j"
+      }
+    },
+    "8.07": {
+      "title": "",
+      "last_updated": "1777416780",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/xny88lllpyb"
+      }
+    },
+    "8.08": {
+      "title": "",
+      "last_updated": "1777416789",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/agyvaeeewy8"
+      }
+    },
+    "8.09": {
+      "title": "",
+      "last_updated": "1777416800",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9p4nmlllwyn"
+      }
+    },
+    "8.10": {
+      "title": "",
+      "last_updated": "1777416810",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/na7kqwwwk78"
+      }
+    },
+    "8.11": {
+      "title": "",
+      "last_updated": "1777416819",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/wl7ldmmm6yx"
+      }
+    },
+    "8.12": {
+      "title": "",
+      "last_updated": "1777416829",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9rydopppd7k"
+      }
+    },
+    "9.01": {
+      "title": "",
+      "last_updated": "1777416838",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/n87w2rrr37x"
+      }
+    },
+    "9.02": {
+      "title": "",
+      "last_updated": "1777416847",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/bp45eddzx45"
+      }
+    },
+    "9.03": {
+      "title": "",
+      "last_updated": "1777416855",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/o24aokkvgyl"
+      }
+    },
+    "9.04": {
+      "title": "",
+      "last_updated": "1777416863",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9p4nmllxwyn"
+      }
+    },
+    "9.05": {
+      "title": "",
+      "last_updated": "1777416871",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/wl7ldmmr6yx"
+      }
+    },
+    "9.06": {
+      "title": "",
+      "last_updated": "1777416879",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9rydoppad7k"
+      }
+    },
+    "9.07": {
+      "title": "",
+      "last_updated": "1777416888",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/pg733jjwv7r"
+      }
+    },
+    "9.08": {
+      "title": "",
+      "last_updated": "1777416900",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/lqyeopp6x4d"
+      }
+    },
+    "9.09": {
+      "title": "",
+      "last_updated": "1777416907",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qb4zqkkjg4j"
+      }
+    },
+    "9.10": {
+      "title": "",
+      "last_updated": "1777416914",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/bp45edd2x45"
+      }
+    },
+    "9.11": {
+      "title": "",
+      "last_updated": "1777416923",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/o24aokkagyl"
+      }
+    },
+    "9.12": {
+      "title": "",
+      "last_updated": "1777416934",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/agyvaeevwy8"
+      }
+    },
+    "9.13": {
+      "title": "",
+      "last_updated": "1777416942",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9p4nmll3wyn"
+      }
+    },
+    "9.14": {
+      "title": "",
+      "last_updated": "1777416949",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/ne7boxx2ky5"
+      }
+    },
+    "9.15": {
+      "title": "",
+      "last_updated": "1777416958",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/na7kqwwdk78"
+      }
+    },
+    "9.16": {
+      "title": "",
+      "last_updated": "1777416967",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/wl7ldmm36yx"
+      }
+    },
+    "9.17": {
+      "title": "",
+      "last_updated": "1777416975",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/9rydoppjd7k"
+      }
+    },
+    "9.18": {
+      "title": "",
+      "last_updated": "1777416983",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/6eyrzddxk7p"
+      }
+    },
+    "9.19": {
+      "title": "",
+      "last_updated": "1777416991",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/n87w2rre37x"
+      }
+    },
+    "9.20": {
+      "title": "",
+      "last_updated": "1777417000",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/qe4gkrr2o7j"
+      }
+    },
+    "9.21": {
+      "title": "",
+      "last_updated": "1777417006",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/o24aokk3gyl"
+      }
+    },
+    "9.22": {
+      "title": "",
+      "last_updated": "1777417014",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/a846zggpgyx"
+      }
+    },
+    "9.23": {
+      "title": "",
+      "last_updated": "1777417022",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/92495jjvvyn"
+      }
+    },
+    "9.24": {
+      "title": "",
+      "last_updated": "1777417031",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/dl7pwzzv8yo"
+      }
+    },
+    "9.25": {
+      "title": "",
+      "last_updated": "1777417039",
+      "groups": {
+        "Lusario Scans": "/proxy/api/imgchest/chapter/wl7ldmm96yx"
       }
     }
   }
